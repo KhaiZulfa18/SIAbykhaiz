@@ -60,8 +60,8 @@ class Tools extends CI_Controller {
                     'protocol'  => 'smtp',
                     'smtp_crypto' => 'tls',     
                     'smtp_host' => 'smtp.gmail.com',
-                    'smtp_user' => 'khaizulfa18@gmail.com',  // Ganti dengan email gmail kamu
-                    'smtp_pass' => 'khaizuddin',             // Password gmail kamu
+                    'smtp_user' => '',  // Ganti dengan email gmail kamu
+                    'smtp_pass' => '',             // Password gmail kamu
                     'smtp_port' => 587,
                     'wordwrap'  => false,
                     'newline'   => "\r\n"
